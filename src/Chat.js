@@ -1,4 +1,3 @@
-import ChatApp from './ChatApp';
 import React, {useCallback, useEffect, useState} from 'react';
 import {GiftedChat} from 'react-native-gifted-chat';
 import {Image, Pressable, StyleSheet, Text} from 'react-native';
